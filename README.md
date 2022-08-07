@@ -13,12 +13,12 @@ Data processing is the collection and manipulation of data to produce meaningful
 
 ## Import Python Libraries
 >import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-#to ignore warnings
-import warnings
-warnings.filterwarnings('ignore')
+>import numpy as np
+>import matplotlib.pyplot as plt
+>import seaborn as sns
+>#to ignore warnings
+>import warnings
+>warnings.filterwarnings('ignore')
 
 ### Pandas
 To read documentation about python [read here](https://pandas.pydata.org/)
