@@ -20,9 +20,8 @@ Data processing is the collection and manipulation of data to produce meaningful
 
 >import seaborn as sns
 
->#to ignore warnings
 >import warnings
->warnings.filterwarnings('ignore')
+ warnings.filterwarnings('ignore')
 
 ### Pandas
 To read documentation about python [read here](https://pandas.pydata.org/)
